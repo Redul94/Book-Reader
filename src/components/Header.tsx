@@ -10,7 +10,7 @@ export default function Header() {
       initial={{ opacity: 0, x: -1000 }}
       animate={{ opacity: 1, x: 0 }}
     >
-      <h1 className="text-black mr-8 font-bold text-2xl md:text-3xl">Book App</h1>
+      <h1 className="text-black mr-8 font-bold text-2xl md:text-3xl">Book Reader</h1>
       <motion.input
         type="text"
         className="p-2 md:p-4 text-black ml-4 h-8 rounded-3xl w-full md:w-auto bg-yellow-100 border-2 border-black"
