@@ -1,3 +1,16 @@
+
+
+Book Reader
+
+A website where user can search their favorite book and read using highligting the text. They also can left note or comment in specfic line.
+## Output
+![image](https://github.com/user-attachments/assets/1e223d53-3b3a-4c51-84b8-e48b4be40461)
+![image](https://github.com/user-attachments/assets/b5a3ede8-34c0-49f3-b066-e43c5e344366)
+![image](https://github.com/user-attachments/assets/a7972944-e70a-49ee-8db2-be3e92bcbf10)
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
